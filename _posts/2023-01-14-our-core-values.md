@@ -10,12 +10,12 @@ tags:
 
 Ethical chart and core values : 
 
-* Environmental responsibility: we have a strong commitment to reducing carbon emissions and preserving natural resources.
+* **Environmental responsibility**: we have a strong commitment to reducing carbon emissions and preserving natural resources.
 
-* Energy efficiency: we focus on developing and promoting technologies and practices that reduce energy consumption.
+* **Energy efficiency**: we focus on developing and promoting technologies and practices that reduce energy consumption.
 
-* Economic viability: we strive to make sustainable energy solutions accessible and affordable for individuals and businesses.
+* **Economic viability**: we strive to make sustainable energy solutions accessible and affordable for individuals and businesses.
 
-* Innovation: we are constantly researching and developing new, cutting-edge technologies in the sustainable energy field.
+* **Innovation**: we are constantly researching and developing new, cutting-edge technologies in the sustainable energy field.
 
-* Transparency and Education: we provide clear and accurate information about our products and services, and educate customers about the benefits of sustainable energy.
+* **Transparency and Education**: we provide clear and accurate information about our products and services, and educate customers about the benefits of sustainable energy.
