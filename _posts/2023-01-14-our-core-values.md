@@ -1,5 +1,5 @@
 ---
-title: What is our core values?
+title: What are our core values?
 layout: post
 post-image: /assets/images/forest.jpeg
 description: We believe in our core values and implementing everyday through our products and services for individuals and businesses
