@@ -1,4 +1,3 @@
-
 ---
 title: What is our core values?
 layout: post
